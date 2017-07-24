@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Weapon Re.Plugins", "Chakra Weapon Re.Plugins.csproj", "{6BF6F6C5-215B-DD4C-A0C7-3C5071176808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Weapon Re", "Chakra Weapon Re.csproj", "{00B6C8C4-437B-990D-182F-134337817D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Weapon Re.Editor.Plugins", "Chakra Weapon Re.Editor.Plugins.csproj", "{6BBE75FF-D7DC-34C7-2C1F-311A340566B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Weapon Re.Editor", "Chakra Weapon Re.Editor.csproj", "{87577178-F1AE-B74B-A2F2-D44D41E93F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF6F6C5-215B-DD4C-A0C7-3C5071176808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF6F6C5-215B-DD4C-A0C7-3C5071176808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF6F6C5-215B-DD4C-A0C7-3C5071176808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF6F6C5-215B-DD4C-A0C7-3C5071176808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B6C8C4-437B-990D-182F-134337817D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B6C8C4-437B-990D-182F-134337817D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B6C8C4-437B-990D-182F-134337817D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B6C8C4-437B-990D-182F-134337817D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBE75FF-D7DC-34C7-2C1F-311A340566B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBE75FF-D7DC-34C7-2C1F-311A340566B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBE75FF-D7DC-34C7-2C1F-311A340566B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBE75FF-D7DC-34C7-2C1F-311A340566B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87577178-F1AE-B74B-A2F2-D44D41E93F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87577178-F1AE-B74B-A2F2-D44D41E93F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87577178-F1AE-B74B-A2F2-D44D41E93F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87577178-F1AE-B74B-A2F2-D44D41E93F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
