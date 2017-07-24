@@ -20,8 +20,7 @@ public class damageTest : MonoBehaviour {
     }
 
     public void Damaged(float damage)
-    {
-  
+    {  
         hp -= damage;
         print(hp);
     }
