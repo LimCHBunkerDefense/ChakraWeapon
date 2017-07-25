@@ -53,6 +53,7 @@ public class cCharacterController : MonoBehaviour {
 	void Update ()
     {
 		print("테스트 창현");
+		print("test");
 		print("asdasdasdasd");
         if (Input.GetMouseButton(0))
         {
