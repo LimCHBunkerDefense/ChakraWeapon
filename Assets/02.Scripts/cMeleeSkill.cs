@@ -17,7 +17,7 @@ public class cMeleeSkill : MonoBehaviour {
     {
         //검오브젝트 키기
         m_objSword.SetActive(true);
-
+		       
         //검 콜라이더 켜기
         m_objMeleeBasicCollider.SetActive(true);
     }
