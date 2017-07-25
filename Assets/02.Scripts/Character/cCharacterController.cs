@@ -53,6 +53,7 @@ public class cCharacterController : MonoBehaviour {
 	void Update ()
     {
         print("11");
+        print("충돌테스트");
 
         if (Input.GetMouseButton(0))
         {
