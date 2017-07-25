@@ -53,7 +53,6 @@ public class cCharacterController : MonoBehaviour {
 	void Update ()
     {
 		print("테스트 창현");
-		print("asdasdasdasd");
         if (Input.GetMouseButton(0))
         {
             m_anim.SetBool("MoveToIdle", true);
