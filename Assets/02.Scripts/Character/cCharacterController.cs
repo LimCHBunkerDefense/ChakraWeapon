@@ -52,6 +52,8 @@ public class cCharacterController : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
+		print("테스트 창현");
+		print("asd");
         if (Input.GetMouseButton(0))
         {
             m_anim.SetBool("MoveToIdle", true);
